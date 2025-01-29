@@ -1,0 +1,4 @@
+zone "leandro_marques" {
+    type master;
+    file "/etc/bind/db.leandro_marques.com";
+};
